@@ -1,0 +1,403 @@
+header
+{
+    background-image: url(../image/download.jpg);
+    background-size: cover;
+    background-position: center center;
+    
+}
+.mong h1
+{
+    font-size:70px ;
+}
+
+.mong h2::after
+{
+    content: '  Designer |';
+animation-name: mohmaad;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+animation-delay:1s ;
+}
+
+
+
+li:hover .nokl
+{
+    opacity: 1;
+    width: 65px;
+}
+
+.nok
+{
+    width: 55px;
+    height: 2px;
+    background-color: white;
+}
+.navbar-nav
+{
+   margin-right: 200px; 
+}
+
+.holy
+{
+    width: 230px;
+}
+
+
+.nokl
+{
+    transition: 1.5s;
+    opacity: 0;
+    width: 55px;
+    height: 2px;
+    background-color: white;
+}
+
+.skol p
+
+{
+    
+font-size: 18px;
+}
+li:hover .nol
+{
+    opacity: 1;
+}
+
+.glpo
+{
+    width: 105px;
+    height: 2px;
+    background-color: rgb(99, 105, 211);
+}
+.nol
+{
+    transition: 1.5s;
+    opacity: 0;
+    width: 120px;
+    height: 2px;
+    background-color: white; 
+}
+
+
+
+.nav-link
+{
+    font-size: 21px; 
+    color: white;
+}
+.navbar-brand
+{
+    font-size: 40px;
+}
+@keyframes mohmaad
+
+{
+0%{   content: ' D |';  }
+5%{   content: ' De |';  }
+10%{   content: ' Des |';  }
+159%{   content: ' Desi |';  }
+20%{   content: ' Desig |';  }
+25%{   content: ' Design |';  }
+35%{   content: ' Designe |';  }
+45%{   content: ' Designer |';  }
+55%{   content: ' Designer |'; } 
+60%{   content: ' Designe |';  }
+65%{   content: ' Design |';  }
+70%{   content: ' Desig |'; } 
+75%{   content: ' Desi |';  }
+80%{   content: ' Des |';  }
+90%{   content: ' De |';  }
+95%{   content: ' D |';  }
+
+100%{   content: ' |';  }
+}
+
+.service-icon
+{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 0 0 0 10px #0078ff;
+
+}
+
+.service-icn
+{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px #0078ff;
+
+
+}
+
+.service-icn:hover 
+{
+    box-shadow: 0 0 0 3px whitesmoke;
+
+}
+
+.yur
+{
+    width: 50px;
+    height: 50px; 
+    background-color: white;
+    border-radius: 50%;  
+}
+
+.yur:hover
+{
+    background-color:  #0078ff;
+}
+
+
+.list-ico i
+{
+    color: black;
+}
+.list-ico li
+{
+    list-style-type: none;
+}
+.icon-box
+{
+    width: 70px;
+    height: 70px; 
+    border-radius: 50%;
+    box-shadow: 0 0 0 10px whitesmoke;
+    margin-bottom: 1rem;
+
+}
+
+.myosf:hover button
+{
+    background-color:  #6aa1df;
+
+    box-shadow: 0px 0 0 3px rgb(237, 229, 229);
+
+}
+.icon-bx
+{
+list-style-type: none;
+}
+
+.icon-bix
+{
+    width: 30px;
+    height: 30px; 
+    border-radius: 50%;  
+    box-shadow: 0 0 0 3px #0078ff;
+
+}
+
+.polk
+{
+    margin-bottom: 1rem;
+
+  
+}
+.mlop
+{
+    font-size: 15px;
+}
+.plsf
+{
+    font-size: 19px;
+}
+
+.magic-padg img 
+{
+transition:transform 0.5s ;
+}
+
+.magic-padg 
+{
+    overflow: hidden !important;
+}
+.magic-padg:hover img
+{
+    transform: scale(1.2,1.2);
+} 
+
+.box-content
+{
+    font-size: 25px;
+}
+
+
+.tyr
+{
+    width: 30px;
+    height: 30px;  
+}
+.tynr
+{
+    width: 100px;
+    height: 100px; 
+    
+}
+
+.assv
+{
+    
+    width: 100px;
+    height: 5px;
+    background-color: #0078ff;     
+}
+.assd
+{
+    width: 50px;
+    height: 5px;
+    background-color: #0078ff;     
+}
+
+
+.button
+{
+    background: #0078ff;
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+}
+
+.njuk
+{
+    background: #0062d3  
+}
+.myosf
+{
+    
+    border: 0;
+    padding: 50px 64px ;
+    
+}
+.tyur:hover
+{
+    background-color:  #0078ff;
+}
+.tyur:hover
+{
+    background-color:  ;
+}
+
+.service-icon:hover 
+{
+    box-shadow: 0 0 0 10px whitesmoke;
+
+}
+
+.tyur
+{
+    width: 100px;
+    height: 100px; 
+    background-color: white;
+    border-radius: 50%;
+    transition: all 2s;
+
+}
+
+
+.service-box
+{
+    border-radius: 1rem;
+}
+
+
+.section-continer
+{
+    background-image: url(../image/bak.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: scroll;
+    position: relative;
+
+}
+ .kopy
+ {
+     width:100%;
+     background-color: #0077ff54;
+ }
+
+.section-continer
+{
+    height: 60%;
+}
+
+
+.over
+{
+    width: 100%;
+    height: 100%;
+    background-color: #0077ff97;
+
+}
+
+
+
+
+.aeft
+{
+    background-image: url(../image/mohmmed.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+  
+}
+
+
+
+.iklh
+{
+    width: 100%;
+    height: 100%;
+    background-color: #0077ff97;
+}
+
+
+
+
+
+.naew
+{
+    width: 15%;
+}
+.monj:hover p
+{
+color: #0078ff;
+}
+
+.loed:hover h3
+{
+    color: #0078ff;
+
+}
+
+.card-category
+ {
+    display: inline-block;
+    color: #fff;
+    padding: 0 15px 6px;
+    overflow: hidden;
+    background-color: #0078ff;
+    border-radius: 4px;
+    position: relative;
+    transform: translatey(-12px);
+    margin-left: 39%;
+}
+
+
+.member img
+{
+    width: 150px;
+}
+
+.carousel-indicators [data-bs-target]
+{
+    width: 13px;
+    height: 13px;
+     border-radius: 50%;
+     margin-bottom: 50px;
+}
